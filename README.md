@@ -35,5 +35,5 @@ O código pode ser atualizado conforme eu avanço nos estudos.
 
 ---
 
-👤 **Autor:** Matheus de Paula Martins
+👤 **Autor:** Matheus de Paula Martins  
 📘 **Curso:** HTML5 e CSS3 — Curso em Vídeo  
